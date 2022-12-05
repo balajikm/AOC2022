@@ -2,4 +2,4 @@
 using AOC_2022.ProblemProcessor;
 
 Console.WriteLine("Hello, World!");
-Day03 day01 = new Day03();
+Day05 day01 = new Day05();
