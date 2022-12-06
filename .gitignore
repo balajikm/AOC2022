@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AOC_2022/bin/*
+/.vs/AOC_2022/FileContentIndex
