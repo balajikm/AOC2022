@@ -2,4 +2,5 @@
 using AOC_2022.ProblemProcessor;
 
 Console.WriteLine("Welcome to AOC 2022");
-Day07 day01 = new Day07();
+Day08 day01 = new Day08();
+Console.ReadLine();
